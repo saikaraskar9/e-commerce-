@@ -1,0 +1,15 @@
+*{
+    background: url(clothing2.avif);
+    color: bisque;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+h1{
+    background:none;
+    color: black;
+    font-family: "Space Grotesk", sans-serif;
+    text-align: center;
+    padding: 200px;
+}
